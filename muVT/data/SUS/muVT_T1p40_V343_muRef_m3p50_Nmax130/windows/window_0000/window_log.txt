@@ -1,0 +1,2 @@
+# SUS window n=0 (N in {0,1})
+# steps=300000 equil=50000

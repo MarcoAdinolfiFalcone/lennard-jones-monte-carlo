@@ -1,0 +1,13 @@
+mu = -2
+T  = 1.4
+V  = 343
+L  = 7
+<N>    = 186.983783333
+Var(N) = 49.5629003531
+<rho>  = 0.545142225462
+files:
+  out_muvt_observables.dat (grezzo dal system)
+  out_histN.dat            (grezzo dal system)
+  muvt_observables.dat      (alias/copia se vuoi farla a mano)
+  histN_raw.dat
+  histN_norm.dat

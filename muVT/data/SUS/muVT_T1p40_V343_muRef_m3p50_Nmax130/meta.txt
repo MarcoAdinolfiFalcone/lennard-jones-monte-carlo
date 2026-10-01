@@ -1,0 +1,24 @@
+RUN META (SUS µVT)
+------------------
+T       = 1.4
+mu_ref  = -3.5
+beta    = 0.714286
+z_ref   = 0.082085
+sigma   = 1
+epsilon = 1
+rc      = 2.5
+V_box   = 343
+L       = 7
+V=L^3   = 343
+
+Move probs:
+p_tra   = 0.5
+p_ins   = 0.25
+p_del   = 0.25
+deltra  = 0.2
+
+SUS:
+nmax           = 130
+steps/window   = 300000
+equil/window   = 50000
+seed(base)     = 12345 (se >=0, shift per finestra)
