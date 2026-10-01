@@ -1,0 +1,7 @@
+# Single NPT run summary (production averages)
+# P0p07  P=0.07  T=1.4  N=343  rho_init=0.2
+# eq_sweeps=10000  prod_sweeps=30000  prod_samples=30000
+# delta_move=0.4  delta_lnV=0.02  obs_every=1  box_every=1
+# acc_move=0.825113  acc_vol=0.883775
+# <rho>  <V>  <L>  <U/N>
+5.627560632841e-02  6.118830927465e+03  1.828247163848e+01  -3.636545277540e-01
